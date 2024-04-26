@@ -1,5 +1,7 @@
 **/.DS_Store
-py/*
+py/outs
+py/*.tar*
 r/*
 .Trash*
 .ipynb_checkpoints
+.vscode
